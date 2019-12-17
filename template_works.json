@@ -1,0 +1,12 @@
+[
+    {
+        "date": "YYYY-MM-DD",
+        "start": "HH:mm",
+        "end": "HH:mm",
+        "projects": [
+        {
+            "code": "project_code",
+            "duration": "HH:mm"
+        }]
+    }
+]
